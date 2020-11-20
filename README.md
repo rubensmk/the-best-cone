@@ -6,8 +6,8 @@
   the best cone
 </h3>
 
-<img src="https://simpleicons.org/icons/bootstrap.svg" width=30 /> <img src="https://simpleicons.org/icons/flask.svg" width=30 />
-<img src="https://simpleicons.org/icons/mongodb.svg" width=30 />
+<img src="https://simpleicons.org/icons/flask.svg" width=30 /> <img src="https://simpleicons.org/icons/mongodb.svg" width=30 />
+<img src="https://simpleicons.org/icons/vue-dot-js.svg" width=30 /> <img src="https://simpleicons.org/icons/quasar.svg" width=30 />
 
 ## Description
-  Projeto para a disciplina de Programação Avançada, integrando diferentes matérias como Cálculo, Banco de Dados, Engenharia de Software em uma aplicação web. Para o desenvolvimento foi utilizado framework web Flask em Python, BootStrap e MongoDB.
+Projeto para a disciplina de Programação Avançada, integrando diferentes matérias como Cálculo, Banco de Dados, Engenharia de Software em uma aplicação web. Para o desenvolvimento foi utilizado Flask, MongoDB, Vue e Quasar.
