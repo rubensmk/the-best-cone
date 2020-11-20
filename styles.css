@@ -1,0 +1,66 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #faf3dd;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  border-width: 2px;
+  padding: 15px;
+  margin-bottom: 10px;
+  font-size: 16px;
+  background-color:honeydew;
+  border-color: #797a7e;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="param1"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="param2"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.btn {
+    color:white;
+    background-color:#64958f;
+    border-color: #faf3dd;
+    margin-bottom: 10px;
+}
+
+.roboto {
+    font-family: 'Roboto Mono', monospace;
+  }
+
+.p-title{
+    font-weight: bold;
+    font-size: large;
+    margin-top: 50px;
+}
+
+.p-text{
+    margin-bottom: 30px;
+}
